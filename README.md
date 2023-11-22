@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dávid</h1>
-<h4 align="center">a web developer, also experienced in heavy-, and lightweight software development</h4>
+<h4 align="center">a data engineer at Norsk Hydro.</h4>
 </div>
 
 <div align="center">
@@ -14,10 +14,16 @@
     💼 Experience
   </summary>
   <div>
-    <h2>Web developer</h2>
-    <i>September 2017 - PRESENT</i><br>
-    <i>Freelance</i>
-    <p>I mainly created small websites for private contractors and helped develop some Enterprises’ websites</p>
+    <h2>Data Engineer</h2>
+    <i>November 2023 - PRESENT</i><br>
+    <i>at Norsk Hydro</i>
+    <p></p>
+  </div>
+  <div>
+    <h2>M365 Trainee</h2>
+    <i>February 2023 - November 2023</i><br>
+    <i>at Norsk Hydro</i>
+    <p></p>
   </div>
   <div>
     <h2>Software Developer (Java)</h2>
@@ -33,7 +39,7 @@
   </summary>
   <div>
     <h2>Master's degree in Computer Science</h2>
-    <i>September 2021 - PRESENT</i><br>
+    <i>September 2021 - July 2023</i><br>
     <i>at University of Pannonia, Hungary</i>
     <p>Beyond my studies, I created a web application to help the instructors and the students create, manage, and apply for Thesis work.</p>
   </div>
@@ -58,7 +64,7 @@
     </p>
     <h3>Hobbies and plans</h3>
     <p>
-      Besides video games, I am interested in music, especially playing the piano, chess, and puzzles. When I have the opportunity, I like to go touring and to kayak. I live in Hungary and will spend the next semester in Finland at Metropolia University. After education, I plan to move abroad, and my primal destination is Finland. I started learning Finnish in June and plan to take a B2-level language exam in early 2023. I also speak a little German but haven’t practiced since graduating.
+      Besides video games, I am interested in music, especially playing the piano, chess, and puzzles. When I have the opportunity, I like to go touring and kayak. I live in Hungary and will spend the next semester in Finland at Metropolia University. After my education, I plan to move abroad, and my primary destination is Finland. I started learning Finnish in June and plan to take a B2-level language exam in early 2023. I also speak a little German but haven’t practiced since graduating.
     </p>
   </div>
 </details>
