@@ -16,10 +16,9 @@
     <h2>Data Engineer</h2>
     <i>November 2023 - PRESENT</i><br>
     <i>at Norsk Hydro</i><br><br>
-    <p>My current role as a Data Engineer at Norsk Hydro has been centered on acquiring a comprehensive understanding of the team's data platform and workflow processes. In this dynamic environment, I have embraced various technologies and tools integral to our operations while contributing to the team's ongoing objectives.</p>
-    <p>Our technology stack revolves around the Azure portal, where I have leveraged Python and Java to contribute to development tasks. Additionally, I have been actively utilizing Databricks and Azure Data Factory to streamline data processing pipelines, reflecting my commitment to utilizing the best tools for the job.</p>
-    <p>My initial project, aimed at practical familiarization with our tools and processes, involved creating a Python-based web scraper application. This application automates the retrieval of the latest posts from Hacker News, storing them in a blob storage. Subsequently, the data undergoes a structured transformation process, progressing from the bronze to silver and gold layers. To orchestrate this workflow, I used Azure Data Factory, ensuring seamless execution and timely data updates every 30 minutes.</p>
-    <p>As I continue to immerse myself in this role, my primary focus remains on contributing to the success of the data platform while honing my skills in the Azure Portal, Python, and Java.</p>
+    <p>My primary focus is learning and familiarizing myself with our data platform and workflow processes. Our technology stack includes Azure, Python, and Java for development, along with tools like Databricks and Azure Data Factory.</p>
+    <p>My initial project involved creating a Python-based web scraper to gather Hacker News posts, which are then processed and stored using Azure Data Factory. This experience has deepened my understanding of data pipeline orchestration and data processing.</p>
+    <p>I am committed to contributing effectively to the team's goals while continually improving my skills in Python, Java, and Azure technologies.</p>
 </div>
   <div>
     <h2>M365 Trainee</h2>
