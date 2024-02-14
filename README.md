@@ -62,13 +62,13 @@
     📋 About me
   </summary>
   <div>
-    <h3>Activities</h3>
+    <h2>Activities</h2>
     <p>
       I started learning programming in 2012 at the age of 13. I have learned and worked in many areas, but game development has always been the most interesting.<br>
       I had contract jobs, including video/image processing, high-volume data processing, program module, and API development. Lately, I've been teaching mathematics, informatics, and programming to high school students.<br>
       I wrote my thesis work on mixed reality application development, which included detecting objects in real-time, placing virtual entities – visible through the screen or AR glasses – in the real world, and giving users options to interact with these entities.
     </p>
-    <h3>Hobbies and plans</h3>
+    <h2>Hobbies and plans</h2>
     <p>
       Besides video games, I am interested in music, especially playing the piano, chess, and puzzles. When I have the opportunity, I like to go touring and kayaking. I live in Hungary and will spend the next semester in Finland at Metropolia University. After my education, I plan to move abroad, and my primary destination is Finland. I started learning Finnish in June 2022 and plan to take a B2-level language exam in 2024. I also speak a little German but haven't practiced since graduating.
     </p>
