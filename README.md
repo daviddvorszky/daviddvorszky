@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dávid</h1>
+<h1 align="center">Hello, I'm Dávid</h1>
 <h4 align="center">a data engineer at Norsk Hydro.</h4>
 </div>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
